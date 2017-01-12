@@ -29,3 +29,6 @@ if you enjoy it, please let me know.
 
 [exhtml on github](https://github.com/nasserman/exhtml)
 
+[hot to video link](http://www.aparat.com/v/mG9v1)
+
+[contact us](http://ressan.ir)
