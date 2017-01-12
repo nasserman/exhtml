@@ -10,11 +10,11 @@ assume you want to add a module for displaying latest products of your store, si
 then create new instance of [b]exhtml[/b] and add it to any position of any layout that you like. if id of created latest module is 42, then use [{"module_id" : 42 , "module_type" : "latest"}] shortcode for loading latest module within exhtml instance.
 easy and simple!
 
-[img]https://image.opencart.com/original/587780c286873.jpg[/img]
+https://image.opencart.com/original/587780c286873.jpg
 
 you can create any custom html layout in exhtml module and load any module you like in it for building customized layout for your pages.
 
 if you enjoy it, please let me know.
 
 exhtml on github:
-[url=https://github.com/nasserman/exhtml][/url]
+https://github.com/nasserman/exhtml
