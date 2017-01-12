@@ -4,10 +4,17 @@ for example you can
 1- create any module you like to use, 
 2- add an instance of exhtm to your home page,
 3- in the editor, use this shortcode to injected into your html code when page loads :
-[code][{"module_id" : xxx , "module_type" : "xxx"}][/code]
+
+```javascript
+[{"module_id" : xxx , "module_type" : "xxx"}]
+```
+
 
 assume you want to add a module for displaying latest products of your store, simply create new instance of latest module and configure its setting, there is no need to add it to any layout. 
-then create new instance of [b]exhtml[/b] and add it to any position of any layout that you like. if id of created latest module is 42, then use [{"module_id" : 42 , "module_type" : "latest"}] shortcode for loading latest module within exhtml instance.
+then create new instance of [b]exhtml[/b] and add it to any position of any layout that you like. if id of created latest module is 42, then use 
+```javascript
+[{"module_id" : 42 , "module_type" : "latest"}]
+``` shortcode for loading latest module within exhtml instance.
 easy and simple!
 
 
