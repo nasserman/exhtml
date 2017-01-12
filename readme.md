@@ -14,7 +14,8 @@ assume you want to add a module for displaying latest products of your store, si
 then create new instance of [b]exhtml[/b] and add it to any position of any layout that you like. if id of created latest module is 42, then use 
 ```javascript
 [{"module_id" : 42 , "module_type" : "latest"}]
-``` shortcode for loading latest module within exhtml instance.
+``` 
+shortcode for loading latest module within exhtml instance.
 easy and simple!
 
 
