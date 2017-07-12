@@ -1,4 +1,4 @@
-Using this extension, you can load multiple instances of installed modules within it. it can be used as replacement for standard html module (based on that actually) and used as a simple page builder.
+By using this extension, you can load multiple instances of installed modules within it. it can be used as replacement for standard html module (based on that actually) and used as a simple page builder.
 
 for example you can
 1- create any module you like to use, 
@@ -22,7 +22,7 @@ easy and simple!
 ![alt text](https://image.opencart.com/original/587780c286873.jpg "exHtml page builder for opencart!")
 
 
-you can create any custom html layout in exhtml module and load any module you like in it for building customized layout for your pages.
+you can create any custom html layout in exhtml module and load any module you want in it for building customized layout for your pages.
 
 if you enjoy it, please let me know.
 
